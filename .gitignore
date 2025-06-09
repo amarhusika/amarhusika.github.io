@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Vite output
+dist/
+
+# Environment files
+.env
+.env.local
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.log
+
+# Build tools
+package-lock.json
+
+# TypeScript outputs (ako ikad dođe)
+*.tsbuildinfo
+
